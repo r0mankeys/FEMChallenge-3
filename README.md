@@ -19,7 +19,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Overview
 
-This challenge had me frustrated, not understanding how to make the NFT appear differently on `:hover` state and having trouble in general with the styling to the point I scarpped it and tried again twice. Having gone through that and finally completing it I eventually leraned a valuable lesson with programming: resiliance is key. I didn't know the answer to my problem and didn't want to search the solution because I felt I could figure it out on my own it so I took a break. That break was essential to finishing the project because it allowed me to come back with fresh ideas and I eventually realised the problem was way less complicated than I was making it and I even learned a new CSS property `filter` which I will talk about later
+This challenge had me frustrated, not understanding how to make the NFT appear differently on `:hover` state and having trouble in general with the styling to the point I scrapped it and tried again twice. Having gone through that and finally completing it I eventually leraned a valuable lesson with programming: resiliance is key. I didn't know the answer to my problem and didn't want to search the solution because I felt I could figure it out on my own it so I took a break. That break was essential to finishing the project because it allowed me to come back with fresh ideas and I eventually realised the problem was way less complicated than I was making it and I even learned a new CSS property `filter` which I will talk about later
 
 ### Screenshots
 
